@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * cdiff
  * calculate color diff with CIEDE2000
